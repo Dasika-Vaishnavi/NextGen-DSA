@@ -1,2 +1,2 @@
 # NextGen-DSA
-This repository for my Data Structures and algorithms  practice. 
+This is a repository for my Data Structures and algorithms  practice. 
